@@ -3,7 +3,7 @@
         "accession": "20210402-5000",
         "category": "Submittal",
         "ddate": "04/01/2021",
-        "desc": "Comment of Neal G Brownell in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
+        "desc": "Comments of Neal G Brownell under P-15056. Submission Date: 4/1/2021",
         "fdate": "04/02/2021",
         "fname": "110266.TXT",
         "format": "TXT",
@@ -19,7 +19,7 @@
         "accession": "20210402-5001",
         "category": "Submittal",
         "ddate": "04/01/2021",
-        "desc": "Comment of Ellen Carter in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
+        "desc": "Comments of Ellen Carter under P-15056. Submission Date: 4/1/2021",
         "fdate": "04/02/2021",
         "fname": "110318.TXT",
         "format": "TXT",
@@ -35,12 +35,12 @@
         "accession": "20210402-5002",
         "category": "Submittal",
         "ddate": "04/01/2021",
-        "desc": "Comment of craig comperatore in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
+        "desc": "Comment of Craig Comperatore in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
         "fdate": "04/02/2021",
         "fname": "110320.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15752985",
-        "name": "craig comperatore",
+        "name": "Craig Comperatore",
         "type": {
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
@@ -51,7 +51,7 @@
         "accession": "20210402-5003",
         "category": "Submittal",
         "ddate": "04/01/2021",
-        "desc": "Comment of Linda Mae Wilson-Brownell in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
+        "desc": "Comments of Linda Mae Wilson-Brownell under P-15056. Submission Date: 4/1/2021",
         "fdate": "04/02/2021",
         "fname": "110268.TXT",
         "format": "TXT",
@@ -67,7 +67,7 @@
         "accession": "20210402-5004",
         "category": "Submittal",
         "ddate": "04/01/2021",
-        "desc": "Comment of George Esposito in Docket(s)/Project(s) P-15056-000 Submission Date: 4/1/2021",
+        "desc": "Comments of George Esposito under P-15056. Submission Date: 4/1/2021",
         "fdate": "04/02/2021",
         "fname": "110321.TXT",
         "format": "TXT",
@@ -137,6 +137,70 @@
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15753716",
         "name": "Richard Lipfert",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15753884": {
+        "accession": "20210402-5070",
+        "category": "Submittal",
+        "ddate": "04/02/2021",
+        "desc": "Comments of Roni Natov under P-15056. Submission Date: 4/2/2021",
+        "fdate": "04/02/2021",
+        "fname": "110389.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15753884",
+        "name": "Roni Natov",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15753955": {
+        "accession": "20210402-5085",
+        "category": "Submittal",
+        "ddate": "04/02/2021",
+        "desc": "Comments of James Burkly under P-15056. Submission Date: 4/2/2021",
+        "fdate": "04/02/2021",
+        "fname": "110390.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15753955",
+        "name": "James Burkly",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15753994": {
+        "accession": "20210402-5094",
+        "category": "Submittal",
+        "ddate": "04/02/2021",
+        "desc": "Comments of Joey Carey under P-15056. Submission Date: 4/2/2021",
+        "fdate": "04/02/2021",
+        "fname": "110402.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15753994",
+        "name": "Joey Carey",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15754041": {
+        "accession": "20210402-5100",
+        "category": "Submittal",
+        "ddate": "04/02/2021",
+        "desc": "Comment of Blaine Hoekstra in Docket(s)/Project(s) P-15056-000 Submission Date: 4/2/2021",
+        "fdate": "04/02/2021",
+        "fname": "110408.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15754041",
+        "name": "Blaine Hoekstra",
         "type": {
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
