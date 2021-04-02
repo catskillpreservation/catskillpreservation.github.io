@@ -1,0 +1,18 @@
+{
+    "15663267": {
+        "accession": "20201119-5202",
+        "category": "Submittal",
+        "ddate": "11/18/2020",
+        "desc": "Application for Preliminary Permit for Document of Premium Energy Holdings, LLC Ashokan PSP under P-15056.",
+        "fdate": "11/19/2020",
+        "fname": "Premium Energy Preliminary Permit App Ashokan PSP.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15663267",
+        "name": null,
+        "type": {
+            "full": "Application/Petition/Request | Application for Preliminary Permit",
+            "major": "Application/Petition/Request",
+            "minor": "Application for Preliminary Permit"
+        }
+    }
+}
