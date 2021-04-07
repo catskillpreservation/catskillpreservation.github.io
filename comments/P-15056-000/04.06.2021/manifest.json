@@ -3,7 +3,7 @@
         "accession": "20210406-5000",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Dave Kaufman in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Dave Kaufman under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111337.TXT",
         "format": "TXT",
@@ -19,7 +19,7 @@
         "accession": "20210406-5004",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Sean Suchara in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Sean Suchara under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111327.TXT",
         "format": "TXT",
@@ -35,7 +35,7 @@
         "accession": "20210406-5012",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of bridget sweeney in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of bridget sweeney under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111366.TXT",
         "format": "TXT",
@@ -51,7 +51,7 @@
         "accession": "20210406-5018",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Morton S. Adams in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Morton S. Adams under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111378.TXT",
         "format": "TXT",
@@ -67,7 +67,7 @@
         "accession": "20210406-5019",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Brigitte Engler in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Brigitte Engler under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111128.TXT",
         "format": "TXT",
@@ -83,7 +83,7 @@
         "accession": "20210406-5033",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Zac Schiff in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Zac Schiff under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111213.TXT",
         "format": "TXT",
@@ -99,7 +99,7 @@
         "accession": "20210406-5035",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Blair Reynolds in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Blair Reynolds under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111398.TXT",
         "format": "TXT",
@@ -115,7 +115,7 @@
         "accession": "20210406-5075",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Lauren Baptiste in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Lauren Baptiste under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111460.TXT",
         "format": "TXT",
@@ -131,7 +131,7 @@
         "accession": "20210406-5081",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Carolyn Mow in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Carolyn Mow under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "110319.TXT",
         "format": "TXT",
@@ -147,7 +147,7 @@
         "accession": "20210406-5113",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Edward Ojarovsky in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Edward Ojarovsky under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "111520.TXT",
         "format": "TXT",
@@ -163,7 +163,7 @@
         "accession": "20210406-5131",
         "category": "Submittal",
         "ddate": "04/05/2021",
-        "desc": "Comment of Elizabeth Murray in Docket(s)/Project(s) P-15056-000 Submission Date: 4/5/2021",
+        "desc": "Comments of Elizabeth Murray under P-15056. Submission Date: 4/5/2021",
         "fdate": "04/06/2021",
         "fname": "110097.TXT",
         "format": "TXT",
@@ -179,12 +179,796 @@
         "accession": "20210406-5140",
         "category": "Submittal",
         "ddate": "04/06/2021",
-        "desc": "Comment of Jonathan Nedbor in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "desc": "Comments of Jonathan Nedbor under P-15056. Submission Date: 4/6/2021",
         "fdate": "04/06/2021",
         "fname": "111549.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757647",
         "name": "Jonathan Nedbor",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15757699": {
+        "accession": "20210406-5163",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Blake Macko under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111590.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757699",
+        "name": "Blake Macko",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15757718": {
+        "accession": "20210406-5170",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "(doc-less) Motion to Intervene of Michelle Friedel under P-15056.",
+        "fdate": "04/06/2021",
+        "fname": "1200077_Interv.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757718",
+        "name": "Michelle Friedel",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15757779": {
+        "accession": "20210406-5191",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of John Perry under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111609.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757779",
+        "name": "John Perry",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15757954": {
+        "accession": "20210406-5259",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Stephen Lieb under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111702.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757954",
+        "name": "Stephen Lieb",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15757958": {
+        "accession": "20210406-5260",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Sarah Kinlaw under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111698.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757958",
+        "name": "Sarah Kinlaw",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15757992": {
+        "accession": "20210406-5272",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Irwin Marcus under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111710.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15757992",
+        "name": "Irwin Marcus",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758043": {
+        "accession": "20210406-5292",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Paul T Smith under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111716.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758043",
+        "name": "Paul T Smith",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758046": {
+        "accession": "20210406-5295",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of matt kovner under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111729.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758046",
+        "name": "matt kovner",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758160": {
+        "accession": "20210406-5344",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Leana Nieves under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111788.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758160",
+        "name": "Leana Nieves",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758170": {
+        "accession": "20210406-5348",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Denis and Judith Moran under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111775.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758170",
+        "name": "Denis and Judith Moran",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758182": {
+        "accession": "20210406-5354",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Gordon Perkins II under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111809.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758182",
+        "name": "Gordon Perkins II",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758335": {
+        "accession": "20210406-5420",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Heidi Emrich under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111804.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758335",
+        "name": "Heidi Emrich",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758357": {
+        "accession": "20210406-5430",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Marc Rubin under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111184.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758357",
+        "name": "Marc Rubin",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758372": {
+        "accession": "20210406-5437",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Angelina Vezzetti under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111873.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758372",
+        "name": "Angelina Vezzetti",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758430": {
+        "accession": "20210406-5463",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Motion to Intervene of New York-New Jersey Trail Conference for Ashokan Pump Storage Project under P-15056.",
+        "fdate": "04/06/2021",
+        "fname": "NYNJTC_P15056.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758430",
+        "name": "New York-New Jersey Trail Conference for Ashokan Pump Storage Project",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15758467": {
+        "accession": "20210406-5478",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Joseph N Raguzin under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111870.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758467",
+        "name": "Joseph N Raguzin",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758518": {
+        "accession": "20210406-5499",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Rosemary Anderson under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111931.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758518",
+        "name": "Rosemary Anderson",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758559": {
+        "accession": "20210406-5522",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of patrick crisci under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111923.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758559",
+        "name": "patrick crisci",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758610": {
+        "accession": "20210406-5555",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Jessica Fitzpatrick under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111882.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758610",
+        "name": "Jessica Fitzpatrick",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758729": {
+        "accession": "20210406-5633",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Trevor Harris under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112027.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758729",
+        "name": "Trevor Harris",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758748": {
+        "accession": "20210406-5643",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Elizabeth Sorrell in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112046.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758748",
+        "name": "Elizabeth Sorrell",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758849": {
+        "accession": "20210406-5698",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Kathryn Fink in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112135.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758849",
+        "name": "Kathryn Fink",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15758974": {
+        "accession": "20210406-5764",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Robert W Moss in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112153.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15758974",
+        "name": "Robert W Moss",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759006": {
+        "accession": "20210406-5784",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Howard Altarescu in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112219.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759006",
+        "name": "Howard Altarescu",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759166": {
+        "accession": "20210406-5870",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Robert Jaffe under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112313.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759166",
+        "name": "Robert Jaffe",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759174": {
+        "accession": "20210406-5874",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Fran Melmed under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112323.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759174",
+        "name": "Fran Melmed",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759188": {
+        "accession": "20210406-5879",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Alicia Katsur under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112329.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759188",
+        "name": "Alicia Katsur",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759296": {
+        "accession": "20210406-5936",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Paul Russell under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112353.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759296",
+        "name": "Paul Russell",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759311": {
+        "accession": "20210406-5944",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of John Ellingboe under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112394.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759311",
+        "name": "John Ellingboe",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759320": {
+        "accession": "20210406-5948",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of P Keusch under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112371.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759320",
+        "name": "P Keusch",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759391": {
+        "accession": "20210406-5980",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Elizabeth Caprotti under P-15056 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112425.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759391",
+        "name": "Elizabeth Caprotti",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759407": {
+        "accession": "20210406-5987",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Max Friedlich under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112398.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759407",
+        "name": "Max Friedlich",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759475": {
+        "accession": "20210406-6012",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Julie Bergstresser under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112455.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759475",
+        "name": "Julie Bergstresser",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759497": {
+        "accession": "20210406-6019",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "(doc-less) Motion to Intervene of Ulster County Planning Department under P-15056.",
+        "fdate": "04/06/2021",
+        "fname": "1200315_Interv.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759497",
+        "name": "Ulster County Planning Department",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15759502": {
+        "accession": "20210406-6022",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Noah Zakim under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112466.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759502",
+        "name": "Noah Zakim",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759506": {
+        "accession": "20210406-6023",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Motion to Intervene of Mountain Cloves Scenic Byway, Inc. under P-15056.",
+        "fdate": "04/06/2021",
+        "fname": "MCSB Inc Motion to Intervene.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759506",
+        "name": "Mountain Cloves Scenic Byway, Inc.",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15759518": {
+        "accession": "20210406-6029",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Arthur Linker under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112462.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759518",
+        "name": "Arthur Linker",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759531": {
+        "accession": "20210406-6036",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Lois M Ostapczuk under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112469.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759531",
+        "name": "Lois M Ostapczuk",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759534": {
+        "accession": "20210406-6039",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Hanson Wong under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112458.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759534",
+        "name": "Hanson Wong",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759550": {
+        "accession": "20210406-6046",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Amanda Dean under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112485.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759550",
+        "name": "Amanda Dean",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759604": {
+        "accession": "20210406-6071",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Markus Koelbl in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112500.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759604",
+        "name": "Markus Koelbl",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759625": {
+        "accession": "20210406-6079",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Motion to Intervene of Catskill Mountainkeeper under P-15056.",
+        "fdate": "04/06/2021",
+        "fname": "CatskillMountainkeeper-P-15056-MotiontoIntervene.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759625",
+        "name": "Catskill Mountainkeeper",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15759655": {
+        "accession": "20210406-6087",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Judith E Turkel under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112515.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759655",
+        "name": "Judith E Turkel",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759670": {
+        "accession": "20210406-6095",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Catherine M Johnston under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "111043.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759670",
+        "name": "Catherine M Johnston",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759674": {
+        "accession": "20210406-6097",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comments of Deirdre Newman under P-15056. Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112527.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759674",
+        "name": "Deirdre Newman",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759707": {
+        "accession": "20210406-6106",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Mary Ellen Smyth in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112536.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759707",
+        "name": "Mary Ellen Smyth",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759720": {
+        "accession": "20210406-6109",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Alexander Archambault in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112541.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759720",
+        "name": "Alexander Archambault",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759726": {
+        "accession": "20210406-6111",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Samuel Kalb in Docket(s)/Project(s) P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112519.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759726",
+        "name": "Samuel Kalb",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15759727": {
+        "accession": "20210406-6112",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Comment of Samuel Kalb in Docket(s)/Project(s) P-15056-000, P-15056-000 Submission Date: 4/6/2021",
+        "fdate": "04/06/2021",
+        "fname": "112519.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15759727",
+        "name": "Samuel Kalb",
         "type": {
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
