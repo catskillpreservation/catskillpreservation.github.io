@@ -254,5 +254,21 @@
             "major": "Comments/Protest",
             "minor": "Comment on Filing"
         }
+    },
+    "15761184": {
+        "accession": "20210407-0007",
+        "category": "Submittal",
+        "ddate": "03/29/2021",
+        "desc": "Comments of Premium Energy Holdings, LLC re the Ashokan Pumped Storage Project under P-15056.",
+        "fdate": "04/01/2021",
+        "fname": "15761184.TIF",
+        "format": "TIF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15761184",
+        "name": "Premium Energy Holdings, LLC re the Ashokan Pumped Storage Project",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
     }
 }

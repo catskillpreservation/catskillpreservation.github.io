@@ -1534,5 +1534,21 @@
             "major": "Comments/Protest",
             "minor": "Comment on Filing"
         }
+    },
+    "15761286": {
+        "accession": "20210407-5275",
+        "category": "Submittal",
+        "ddate": "04/07/2021",
+        "desc": "Comments of Bernadette Slovensky under P-15056. Submission Date: 4/7/2021",
+        "fdate": "04/07/2021",
+        "fname": "112759.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15761286",
+        "name": "Bernadette Slovensky",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
     }
 }
