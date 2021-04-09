@@ -1155,12 +1155,12 @@
         "accession": "20210408-5194",
         "category": "Submittal",
         "ddate": "04/08/2021",
-        "desc": "Comment of emilie sinkler in Docket(s)/Project(s) P-15056-000 Submission Date: 4/8/2021",
+        "desc": "Comments of Emilie Sinkler under P-15056. Submission Date: 4/8/2021",
         "fdate": "04/08/2021",
         "fname": "112887.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15762147",
-        "name": "emilie sinkler",
+        "name": "Emilie Sinkler",
         "type": {
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
@@ -1241,6 +1241,38 @@
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15762198",
         "name": "Adam P. Barsky, Esq.",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15762213": {
+        "accession": "20210408-0011",
+        "category": "Submittal",
+        "ddate": "03/25/2021",
+        "desc": "Comments of James W. Hyde re the proposed West Shokan Hydroelectric Project under P-15056.",
+        "fdate": "04/08/2021",
+        "fname": "15762213.TIF",
+        "format": "TIF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15762213",
+        "name": "James W. Hyde re the proposed West Shokan Hydroelectric Project",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15762214": {
+        "accession": "20210408-0012",
+        "category": "Submittal",
+        "ddate": "04/01/2021",
+        "desc": "Comments of Marilyn Wood re the Ashokan Reservoir under P-15056.",
+        "fdate": "04/08/2021",
+        "fname": "15762214.TIF",
+        "format": "TIF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15762214",
+        "name": "Marilyn Wood re the Ashokan Reservoir",
         "type": {
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
