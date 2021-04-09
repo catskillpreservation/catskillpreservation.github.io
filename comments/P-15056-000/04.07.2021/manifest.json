@@ -1550,5 +1550,21 @@
             "major": "Comments/Protest",
             "minor": "Comment on Filing"
         }
+    },
+    "15762652": {
+        "accession": "20210407-5352",
+        "category": "Submittal",
+        "ddate": "04/06/2021",
+        "desc": "Motion to Intervene of Town of Shandaken under P-15056.",
+        "fdate": "04/07/2021",
+        "fname": "FERC.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15762652",
+        "name": "Town of Shandaken",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
     }
 }
