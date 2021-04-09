@@ -1,0 +1,47 @@
+
+
+David C Burkhart, Binghamton, NY.
+
+April 8, 2021
+
+
+Ms. Kimberly Bose, Secretary
+Federal Energy Regulatory Commission
+888 First Street NE
+Washington DC 20426
+
+
+Re: Project P-15056 Ashokan Pumped Storage 
+
+
+Dear Secretary Bose:
+
+My family owns a home at 791 Vly Road, in the affected Town of Olive.  I have a number of questions and concerns regarding this project: 
+
+1.	Proposal Depends on Future Event – Change to the State Constitution 
+Each proposed site in the application would use (or acquire) land that is designated by New Your State as a forest preserve.  Forest preserves are protected under Article XIV in the New York State Constitution.  It says, “The lands of the state, now owned or hereafter acquired, constituting the forest preserve as now fixed by law, shall be forever kept as wild forest lands.  They shall not be leased, sold or exchanged, or be taken by any corporation, public or private…”  Consequently, wouldn’t a change to the State Constitution be required to fully enable the proposed project?  FERC 18CFR 4.32(J) states, “An application the effectiveness of which is conditioned upon the future occurrence of any event or circumstance, will be rejected.”  Therefore, shouldn’t the application be denied?
+
+2.	Proposal Depends on Future Event – New Transmission Line 
+The proposals states, “In order to store energy or deliver power to the regional electrical utility network, construction of a new 230 AC transmission line will be necessary to transmit power from the Ashokan Pumped Storage Switchyard to the existing Hurley Avenue Substation.”  FERC 18CFR 4.32(J) states, “An application the effectiveness of which is conditioned upon the future occurrence of any event or circumstance, will be rejected.”  Therefore, shouldn’t the application be denied?
+
+3.	Project Is Not Closed-Loop, as Claimed by the Applicant
+The proposal claims the project is closed-loop.  It is not.  The Esopus Creek continually runs into the Ashokan Reservoir.  The Esopus Creek also runs out of the Ashokan Reservoir.  In addition, there is a parallel and continual outflow the Catskill Aqueduct, which supplies drinking water to New York City.  At the very least, shouldn’t the application be required to resubmit, defining the system as open-loop?  Also, as I understand it, open-loop pumped storage systems present a higher risk of water contamination than closed-loop systems, due to increased turbidity.  The scientific research on the water quality associated with open-loop systems appears to be sparse.  Given this proposed system would be tied to a critical unfiltered water supply for a major metropolitan area, aren’t the risks too great to grant approval even for a preliminary study at this time?  
+
+4.	Does the Region Need for More Power Generation?
+The proposal is based on the assumption that more power generation is required for this region in the foreseeable future.  Are there credible projections that suggest that is the case?  If not, shouldn’t the application be denied?
+
+Based at least on 1-3 above, I respectfully request the FERC deny application approval at this stage. 
+
+Sincerely,
+
+David Burkhart, PMP
+Program Manager
+PO Box 1475
+Olivebridge, New York 12461
+
+
+DOE Report
+https://www.energy.gov/sites/default/files/2020/04/f73/comparison-of-environmental-effects-open-loop-closed-loop-psh-1.pdf
+NYS Constitution Article XIV Conservation: https://www.dos.ny.gov/info/constitution/article_14_conservation.html 
+
+
