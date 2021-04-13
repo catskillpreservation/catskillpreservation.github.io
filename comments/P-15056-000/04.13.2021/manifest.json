@@ -814,5 +814,53 @@
             "major": "Intervention",
             "minor": "Motion/Notice of Intervention"
         }
+    },
+    "15766068": {
+        "accession": "20210413-5112",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Motion to Intervene of Coalition of Watershed Towns c/o Delaware County Department of Watershed Affairs under P-15056.",
+        "fdate": "04/13/2021",
+        "fname": "Coalition of Watershed Towns Motion to Intervene.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15766068",
+        "name": "Coalition of Watershed Towns c/o Delaware County Department of Watershed Affairs",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15766080": {
+        "accession": "20210413-5116",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Coalition of Watershed Towns under P-15056.",
+        "fdate": "04/13/2021",
+        "fname": "210412 CWT comments.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15766080",
+        "name": "Coalition of Watershed Towns",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15766084": {
+        "accession": "20210413-5117",
+        "category": "Submittal",
+        "ddate": "04/13/2021",
+        "desc": "Comments of Anna Compton under P-15056. Submission Date: 4/13/2021",
+        "fdate": "04/13/2021",
+        "fname": "113966.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15766084",
+        "name": "Anna Compton",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
     }
 }
