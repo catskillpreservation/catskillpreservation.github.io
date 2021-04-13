@@ -9027,12 +9027,12 @@
         "accession": "20210412-5749",
         "category": "Submittal",
         "ddate": "04/12/2021",
-        "desc": "Motion to Intervene of Botchford Heritage Preservation, LLC under P-15056.",
+        "desc": "Motion to Intervene of Botchford Heritage Preservation, LLC for Ashokan Pumped Storage Project under P-15056.",
         "fdate": "04/12/2021",
         "fname": "MotiontoIntervene_BotchfordHeritagePreservation.PDF",
         "format": "PDF",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765372",
-        "name": "Botchford Heritage Preservation, LLC",
+        "name": "Botchford Heritage Preservation, LLC for Ashokan Pumped Storage Project",
         "type": {
             "full": "Intervention | Motion/Notice of Intervention",
             "major": "Intervention",
@@ -9043,7 +9043,7 @@
         "accession": "20210412-5751",
         "category": "Submittal",
         "ddate": "04/12/2021",
-        "desc": "Comment of Cara Cruickshank in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "desc": "Comments of Cara Cruickshank under P-15056. Submission Date: 4/12/2021",
         "fdate": "04/12/2021",
         "fname": "113857.TXT",
         "format": "TXT",
@@ -9053,6 +9053,486 @@
             "full": "Comments/Protest | Comment on Filing",
             "major": "Comments/Protest",
             "minor": "Comment on Filing"
+        }
+    },
+    "15765399": {
+        "accession": "20210412-5755",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Stephanie Blackman under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113859.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765399",
+        "name": "Stephanie Blackman",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765400": {
+        "accession": "20210412-5756",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Ulster County Comptroller March Gallagher on the Application for Preliminary Permit for Ashokan Pumped Storage Hydroelectric Project under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "2021.04.12- Comptroller Gallaghe Comments (P-15056).pdf.PDF",
+        "format": "04",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765400",
+        "name": "Ulster County Comptroller March Gallagher on the Application for Preliminary Permit for Ashokan Pumped Storage Hydroelectric Project",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765405": {
+        "accession": "20210412-5758",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Jean Duffy under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113853.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765405",
+        "name": "Jean Duffy",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765407": {
+        "accession": "20210412-5759",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Motion to Intervene of New York Chapter of Backcountry Hunters & Anglers under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "21 04 11 NY BHA to Intervene.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765407",
+        "name": "New York Chapter of Backcountry Hunters & Anglers",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15765414": {
+        "accession": "20210412-5762",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "(doc-less) Motion to Intervene of Center for Biological Diversity under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "1201725_Interv.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765414",
+        "name": "Center for Biological Diversity",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
+        }
+    },
+    "15765426": {
+        "accession": "20210412-5764",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Harriet menocal under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113862.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765426",
+        "name": "Harriet menocal",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765428": {
+        "accession": "20210412-5766",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Motion to Intervene of New York State Department of Environmental Conservation under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "NYSDEC Notice of Intervention.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765428",
+        "name": null,
+        "type": {
+            "full": "Other Submittal | Government Agency Submittal, Intervention | Motion/Notice of Intervention",
+            "major": "Other Submittal",
+            "minor": "Government Agency Submittal, Intervention"
+        }
+    },
+    "15765429": {
+        "accession": "20210412-5767",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Dafne DeJesus under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113856.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765429",
+        "name": "Dafne DeJesus",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765430": {
+        "accession": "20210412-5768",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Lindsay Shands under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113850.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765430",
+        "name": "Lindsay Shands",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765450": {
+        "accession": "20210412-5772",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Miranda Haydn in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113858.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765450",
+        "name": "Miranda Haydn",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765456": {
+        "accession": "20210412-5773",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of james tadic in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113864.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765456",
+        "name": "james tadic",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765460": {
+        "accession": "20210412-5776",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Hannah Cohen in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113863.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765460",
+        "name": "Hannah Cohen",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765467": {
+        "accession": "20210412-5779",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of robert e wilder under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113873.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765467",
+        "name": "robert e wilder",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765470": {
+        "accession": "20210412-5780",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of New York State Department of Environmental Conservation under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "NYSDEC Comments P-15056-000.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765470",
+        "name": null,
+        "type": {
+            "full": "Other Submittal | Government Agency Submittal, Comments/Protest | Comment on Filing",
+            "major": "Other Submittal",
+            "minor": "Government Agency Submittal, Comments/Protest"
+        }
+    },
+    "15765477": {
+        "accession": "20210412-5782",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Eliott Peacock in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113874.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765477",
+        "name": "Eliott Peacock",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765491": {
+        "accession": "20210412-5788",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Stephen A Cooper under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113875.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765491",
+        "name": "Stephen A Cooper",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765505": {
+        "accession": "20210412-5794",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Sarah Loertscher under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113884.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765505",
+        "name": "Sarah Loertscher",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765506": {
+        "accession": "20210412-5795",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Bradley Sacks under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113849.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765506",
+        "name": "Bradley Sacks",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765518": {
+        "accession": "20210412-5797",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of ILENE Marder Hinchey under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113861.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765518",
+        "name": "ILENE Marder Hinchey",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765519": {
+        "accession": "20210412-5798",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Adam Doan under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113866.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765519",
+        "name": "Adam Doan",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765522": {
+        "accession": "20210412-5799",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Jane Burd in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113697.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765522",
+        "name": "Jane Burd",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765523": {
+        "accession": "20210412-5800",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Gloria Coelho in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113883.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765523",
+        "name": "Gloria Coelho",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765532": {
+        "accession": "20210412-5801",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Laurie Osmond under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113891.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765532",
+        "name": "Laurie Osmond",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765533": {
+        "accession": "20210412-5802",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Brett Keyser under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113890.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765533",
+        "name": "Brett Keyser",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765534": {
+        "accession": "20210412-5803",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Town of Hunter on Premium Energy Holdings' First Amendment for Preliminary Permit for the Ashokan Pumped Storage Project under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "210412 G&L Letter to FERC - Town of Hunter comments.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765534",
+        "name": "Town of Hunter on Premium Energy Holdings' First Amendment for Preliminary Permit for the Ashokan Pumped Storage Project",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765537": {
+        "accession": "20210412-5804",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Michael J Flaherty under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113889.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765537",
+        "name": "Michael J Flaherty",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765539": {
+        "accession": "20210412-5805",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Sam Owens in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113880.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765539",
+        "name": "Sam Owens",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765543": {
+        "accession": "20210412-5808",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of Kristin Ritter under P-15056. Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113886.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765543",
+        "name": "Kristin Ritter",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765544": {
+        "accession": "20210412-5809",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment of Christine Manaker in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "fdate": "04/12/2021",
+        "fname": "113892.TXT",
+        "format": "TXT",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765544",
+        "name": "Christine Manaker",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765598": {
+        "accession": "20210412-5819",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Motion to Intervene of Sarah Loertscher under P-15056. I oppose Premium Energy's proposal and request FERC reject it.",
+        "fdate": "04/12/2021",
+        "fname": "Intervener filing_Sarah Loertscher.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765598",
+        "name": "Sarah Loertscher",
+        "type": {
+            "full": "Intervention | Motion/Notice of Intervention",
+            "major": "Intervention",
+            "minor": "Motion/Notice of Intervention"
         }
     }
 }
