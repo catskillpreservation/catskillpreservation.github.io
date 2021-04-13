@@ -9534,5 +9534,53 @@
             "major": "Intervention",
             "minor": "Motion/Notice of Intervention"
         }
+    },
+    "15765744": {
+        "accession": "20210412-5831",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Withdrawal of Application of Premium Energy Holdings, LLC under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "Withdrawal Request_Ashokan PSP.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765744",
+        "name": null,
+        "type": {
+            "full": "Applicant Correspondence | Withdrawal of Application",
+            "major": "Applicant Correspondence",
+            "minor": "Withdrawal of Application"
+        }
+    },
+    "15765754": {
+        "accession": "20210412-5835",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comment Request of Woodstock Land Conservancy, Inc requesting denial of preliminary permit to Premium Energy Holdings, LLC under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "P-15056 comment letter Woodstock Land Conservancy.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765754",
+        "name": null,
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
+    },
+    "15765843": {
+        "accession": "20210412-5856",
+        "category": "Submittal",
+        "ddate": "04/12/2021",
+        "desc": "Comments of New York Chapter of Backcountry Hunters & Anglers under P-15056.",
+        "fdate": "04/12/2021",
+        "fname": "21 04 11 NY BHA Comments.DOCX",
+        "format": "DOCX",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765843",
+        "name": "New York Chapter of Backcountry Hunters & Anglers",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
     }
 }
