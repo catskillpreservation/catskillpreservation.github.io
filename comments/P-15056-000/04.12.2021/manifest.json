@@ -5048,11 +5048,11 @@
         "fname": "113578.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15764240",
-        "name": "Daniel Greenbaum",
+        "name": null,
         "type": {
-            "full": "Comments/Protest | Comment on Filing",
-            "major": "Comments/Protest",
-            "minor": "Comment on Filing"
+            "full": "Report/Form | Project Operations Compliance Report",
+            "major": "Report/Form",
+            "minor": "Project Operations Compliance Report"
         }
     },
     "15764241": {
@@ -5064,11 +5064,11 @@
         "fname": "113579.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15764241",
-        "name": "Kate Murphy",
+        "name": null,
         "type": {
-            "full": "Comments/Protest | Comment on Filing",
-            "major": "Comments/Protest",
-            "minor": "Comment on Filing"
+            "full": "Report/Form | Project Operations Compliance Report",
+            "major": "Report/Form",
+            "minor": "Project Operations Compliance Report"
         }
     },
     "15764245": {
@@ -9235,16 +9235,16 @@
         "accession": "20210412-5776",
         "category": "Submittal",
         "ddate": "04/12/2021",
-        "desc": "Comment of Hannah Cohen in Docket(s)/Project(s) P-15056-000 Submission Date: 4/12/2021",
+        "desc": "Comments of Hannah Cohen under P-15056. Submission Date: 4/12/2021",
         "fdate": "04/12/2021",
         "fname": "113863.TXT",
         "format": "TXT",
         "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15765460",
-        "name": "Hannah Cohen",
+        "name": null,
         "type": {
-            "full": "Comments/Protest | Comment on Filing",
-            "major": "Comments/Protest",
-            "minor": "Comment on Filing"
+            "full": "Applicant Correspondence | Supplemental/Additional Information",
+            "major": "Applicant Correspondence",
+            "minor": "Supplemental/Additional Information"
         }
     },
     "15765467": {
