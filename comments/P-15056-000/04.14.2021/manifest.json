@@ -30,5 +30,21 @@
             "major": "Comments/Protest",
             "minor": "Comment on Filing"
         }
+    },
+    "15767502": {
+        "accession": "20210414-0010",
+        "category": "Submittal",
+        "ddate": "04/14/2021",
+        "desc": "Comments of Town of Hurley under P-15056.",
+        "fdate": "04/14/2021",
+        "fname": "15767502.TIF",
+        "format": "TIF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15767502",
+        "name": "Town of Hurley",
+        "type": {
+            "full": "Comments/Protest | Comment on Filing",
+            "major": "Comments/Protest",
+            "minor": "Comment on Filing"
+        }
     }
 }
