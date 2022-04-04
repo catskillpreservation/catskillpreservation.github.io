@@ -1,0 +1,34 @@
+{
+    "15714977": {
+        "accession": "20210211-3010",
+        "category": "Issuance",
+        "ddate": "02/11/2021",
+        "desc": "Letter informing Premium Energy Holdings, LLC that the preliminary permit application has been accepted for the Ashokan Pumped Storage Project under P-15056.",
+        "fdate": "02/11/2021",
+        "fname": "Acceptance Permit P-15056.PDF",
+        "format": "PDF",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15714977",
+        "name": null,
+        "type": {
+            "full": "Order/Opinion | Delegated Order",
+            "major": "Order/Opinion",
+            "minor": "Delegated Order"
+        }
+    },
+    "15714999": {
+        "accession": "20210211-3017",
+        "category": "Issuance",
+        "ddate": "02/11/2021",
+        "desc": "Notice of Preliminary Permit Application Accepted for Filing and Soliciting Comments, Motions to Intervene, and Competing Applications re Premium Energy Holdings, LLC under P-15056.",
+        "fdate": "02/11/2021",
+        "fname": "Notice Permit P-15056 final.DOCX",
+        "format": "DOCX",
+        "link": "https://elibrary.ferc.gov/eLibrary/filedownload?fileid=15714999",
+        "name": null,
+        "type": {
+            "full": "Notice | Formal Notice",
+            "major": "Notice",
+            "minor": "Formal Notice"
+        }
+    }
+}
